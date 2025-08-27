@@ -1,5 +1,5 @@
 ## Hei på deg 👋
-Jeg heter Leo, og jeg går IM på Gjennestad
+Jeg heter Leo, og jeg går IM på Gjennestad Videregående Skole
 
 På fritiden liker jeg å:
 - Spille Volleyball
@@ -13,3 +13,4 @@ Jeg er ganske interessert for IT og Media (mest for IT), så det å kunne lære 
 #### Hva jeg håper å lære
 Jeg håper å lære masse grunnleggende om IT og Media, og å finne ut hvilket felt jeg har mest lyst å spesialiserre meg i, og da få nok kunnskap i det feltet for å jobbe med det
 
+[*Link til Gjennestad VGS*](https://www.gjennestadvgs.no/ "Lær mer om skolen her!")
