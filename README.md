@@ -6,3 +6,7 @@ På fritiden liker jeg å:
 - Drive med musikk
     - Både spille og lage
 - Spille videospill
+
+#### Hvorfor jeg valgte IM på vgs
+Jeg er ganske interessert for IT og Media (mest for IT), så det å kunne lære mer og jobbe med det i fremtiden er noe jeg ønsker
+
